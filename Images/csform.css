@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+form{ 
+  color: white;
+  }
+legend, #submit {
+  font-family: 'Lato', Arial, sans-serif;
+  }
+label{
+  font-family: 'Lato', Arial, sans-serif;
+  }
+fieldset {
+  margin-bottom: 10px;
+  padding: 2.5em 1em 0.5em 1em;
+  position: relative;
+  }
+fieldset fieldset {
+  padding-top: 5px;
+  }
+form {
+  background: black;
+  padding: 10px;
+  }
+input, textarea {
+  font-size: 1em;
+  }
+legend span {
+  position: absolute;
+  left: 0;
+  font-size: 1.25em;
+  margin-top: 0.5em;
+  margin-left: 0.5em;
+  }
+#instructions {
+  display: block;
+  }
+#info, #additionalinfo, #submitbutton {
+  border: none;
+  }
+#info label{
+  display:block;
+  position: relative;
+  margin: 15px 0;
+  }
+#info input{
+  position:absolute;
+    left: 120px;
+  }
+#nameinput, #emailinput{
+  width: 30em;
+  }
+#additionalinfo legend{
+  margin-bottom: 25px;
+  }
+#submit{
+  background:white;
+  font-size: 1em;
+  }
+#submitbutton{
+  border: none;
+  text-align:center;
+  }
+/*Caitlyn Yang and Rachel Itow, HTML5 Final, Real Life Independent Challenge*/
